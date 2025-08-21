@@ -1,0 +1,24 @@
+body {
+    background-color: grey;
+    margin: auto;
+    padding-top: 150px;
+    font-family: Arial, sans-serif;
+}
+.whiteplace {
+    background-color: white;
+    border-radius: 10%;
+    text-align: center;
+    height: 300px;
+    width: 30%;
+    margin: auto;
+}
+.whiteplace button {
+    background-color: blue;
+    color: white;
+    border-radius: 7%;
+    height: 60px;
+    width: 200px;
+}
+.whiteplace input {
+    height: 20px;
+}
